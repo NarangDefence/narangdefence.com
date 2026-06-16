@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="18" fill="#1b2a40"/>
+  <g transform="translate(100,108)">
+    <polygon points="-60,-58 0,-80 60,-58" fill="none" stroke="#c9a25e" stroke-width="4"/>
+    <rect x="-57" y="-55" width="114" height="7" fill="#e8dcc3"/>
+    <rect x="-47" y="-44" width="13" height="84" fill="#e8dcc3"/>
+    <rect x="34" y="-44" width="13" height="84" fill="#e8dcc3"/>
+    <polygon points="-34,-44 -22,-44 47,40 35,40" fill="#e8dcc3"/>
+    <rect x="-50" y="-49" width="19" height="5" fill="#c9a25e"/>
+    <rect x="31" y="-49" width="19" height="5" fill="#c9a25e"/>
+    <rect x="-57" y="40" width="114" height="6" fill="#e8dcc3"/>
+    <rect x="-64" y="49" width="128" height="4" fill="#c9a25e"/>
+  </g>
+</svg>
